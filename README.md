@@ -1,7 +1,8 @@
 ### Hi there 👋, Emran Hossain 
 #### I am Front end Web developer 
 
-Skills: HTML/ CSS/ JavaScript/ Bootstrap/ jQuery / Sass/ Tailwind/ React js / Next js 
+Font-End Skills: HTML/ CSS/ JavaScript/ Bootstrap/ jQuery / Sass/ Tailwind/ React js / Next js 
+Back-End Skills: Node.js/ express.js/ mongoDB/
 
 
 
