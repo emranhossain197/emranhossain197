@@ -56,7 +56,9 @@ So I can help you with the most convenient and efficient solution that caters to
 
 
 
+</td></tr></table>  
 
+<br/>  
 
 
 ## Connect with me  
@@ -77,9 +79,5 @@ So I can help you with the most convenient and efficient solution that caters to
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=emranhossain197&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-
-
 
 
